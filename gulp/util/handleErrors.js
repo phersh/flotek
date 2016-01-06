@@ -1,7 +1,7 @@
 'use strict';
 
-var config = require('../config');
-var notify = require('gulp-notify');
+const config = require('../config');
+const notify = require('gulp-notify');
 
 module.exports = function(error) {
 

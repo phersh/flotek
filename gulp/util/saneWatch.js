@@ -1,4 +1,5 @@
-var sane = require('sane');
+'use strict';
+const sane = require('sane');
 
 function debounce(func, wait, immediate) {
   var timeout;
