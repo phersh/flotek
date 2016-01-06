@@ -1,0 +1,15 @@
+lib-cov
+*.seed
+*.log
+*.dat
+*.out
+*.pid
+*.gz
+
+.DS_Store
+
+npm-debug.log
+node_modules
+bower_components
+dist
+**/secrets.js
